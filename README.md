@@ -8,8 +8,4 @@ Implementation done in C. The IDE used was a text editor under Linux OS.
 
 ![Alt text](/System_overview.png?raw=true "System overview")
 
-
-CACA
-https://github.com/CristianG89/Embedded_Industrial_Systems_Design/blob/master/System_overview.png
-
 Lecture from master "Electronic Systems Design" in NTNU Trondheim.
