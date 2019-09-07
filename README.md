@@ -6,7 +6,7 @@ The system is composed by two AVR microprocessors (AT162 and a Arduino) sharing 
 
 Implementation done in C. The IDE used was a text editor under Linux OS.
 
-![Alt text](/Embedded_Industrial_Systems_Design/blob/master/System_overview.png?raw=true "System overview")
+![Alt text](/System_overview.png?raw=true "System overview")
 
 
 CACA
